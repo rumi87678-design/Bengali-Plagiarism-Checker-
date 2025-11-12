@@ -1,11 +1,11 @@
 #bengali_plagiarism_checker/ <br>
-│
-├── backend/
-│   ├── app.py
-│   └── requirements.txt
-│
-└── frontend/
-    └── bengali_plagiarism_app/
-        ├── lib/
-        │   └── main.dart
-        └── pubspec.yaml
+│<br>
+├── backend/<br>
+│   ├── app.py<br>
+│   └── requirements.txt<br>
+│<br>
+└── frontend/<br>
+    └── bengali_plagiarism_app/<br>
+        ├── lib/<br>
+        │   └── main.dart<br>
+        └── pubspec.yaml<br>
